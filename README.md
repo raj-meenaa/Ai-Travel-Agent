@@ -183,6 +183,11 @@ streamlit run main.py
 
 The application will be available at `http://localhost:8501`
 
+### Application Interface
+![AI Travel Agent Interface](https://github.com/user-attachments/assets/1b315b11-f6e0-4a99-9f56-96f5ed60eb4f)
+
+The interface provides a clean, intuitive form for entering travel details and preferences.
+
 ### Using the Interface
 
 1. **Enter Travel Details**:
